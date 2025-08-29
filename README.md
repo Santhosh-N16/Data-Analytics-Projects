@@ -33,5 +33,5 @@ Imported into MySQL under the schema 'sales', with the main table named 'car_sal
 ## 🛠️ How to Use
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/car-sales-sql.git
+   git clone https://github.com/Santhosh-N16/Data-Analytics-Projects.git
+
